@@ -1,0 +1,22 @@
+{
+  "name": "LocalFramework06",
+  "version": "0.1.0",
+  "summary": "A short description of LocalFramework06.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shivam-srivastv/LocalFramework06",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shivam-srivastv": "shivam.srivastava@grabtaxi.com"
+  },
+  "source": {
+    "git": "https://github.com/shivam-srivastv/LocalFramework06.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LocalFramework06/Classes/**/*"
+}
