@@ -14,6 +14,7 @@
 		89423C71454D4880D0E39B689F623B49 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E15F34B3EEA819DAB7D9B42EC5CD6E66 /* ReplaceMe.swift */; };
 		AFBDFC57DF46679CEDB523F6D31C8542 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		D87B1B3717C583F402786A60C813BBE5 /* LocalFramework06-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B4EF9CF2EFB3092431736F27A81DD271 /* LocalFramework06-dummy.m */; };
+		FC46F67D26AC47B300841B5B /* LF06.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC46F67C26AC47B300841B5B /* LF06.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C3C3E4A9C9E5D5BCCF83805E67B65C58 /* Pods-LocalFramework06_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LocalFramework06_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E15F34B3EEA819DAB7D9B42EC5CD6E66 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = LocalFramework06/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		EB0BA887D196A75887E30C88E2F496B4 /* LocalFramework06.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = LocalFramework06.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		FC46F67C26AC47B300841B5B /* LF06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LF06.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +154,7 @@
 			isa = PBXGroup;
 			children = (
 				E15F34B3EEA819DAB7D9B42EC5CD6E66 /* ReplaceMe.swift */,
+				FC46F67C26AC47B300841B5B /* LF06.swift */,
 				AA11E0500316B1CFD02761899EAF61F7 /* Pod */,
 				8225D8B36ED6C3C1AC75CA6FEACCDAC9 /* Support Files */,
 			);
@@ -295,6 +298,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC46F67D26AC47B300841B5B /* LF06.swift in Sources */,
 				D87B1B3717C583F402786A60C813BBE5 /* LocalFramework06-dummy.m in Sources */,
 				89423C71454D4880D0E39B689F623B49 /* ReplaceMe.swift in Sources */,
 			);
